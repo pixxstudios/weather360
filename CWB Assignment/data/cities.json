@@ -1,0 +1,64 @@
+{
+    "cities":[
+        {
+            "name" : "Sydney",
+            "localtime":"2016-11-25 23:05:37",
+            "latitude" : "-33.868",
+            "longitude" : "151.207"
+        },
+        {
+            "name" : "Melbourne",
+            "localtime":"2016-11-25 23:06:37",
+            "latitude" : "-37.814",
+            "longitude" : "144.963"
+        },
+        {
+            "name" : "Brisbane",
+            "localtime":"2016-11-25 23:07:37",
+            "latitude" : "-27.468",
+            "longitude" : "153.028"
+        },
+        {
+            "name" : "Perth",
+            "localtime":"2016-11-25 23:08:37",
+            "latitude" : "-31.952",
+            "longitude" : "115.861"
+        },
+        {
+            "name" : "Adelaide",
+            "localtime":"2016-11-25 23:09:37",
+            "latitude" : "-34.929",
+            "longitude" : "138.599"
+        },
+        {
+            "name" : "Gold Coast",
+            "localtime":"2016-11-25 23:10:37",
+            "latitude" : "-28",
+            "longitude" : "153.431"
+        },
+        {
+            "name" : "Canberra",
+            "localtime":"2016-11-25 23:11:37",
+            "latitude" : "-35.283",
+            "longitude" : "149.128"
+        },
+        {
+            "name" : "Newcastle",
+            "localtime":"2016-11-25 23:12:37",
+            "latitude" : "-32.927",
+            "longitude" : "151.776"
+        },
+        {
+            "name" : "Logan City",
+            "localtime":"2016-11-25 23:13:37",
+            "latitude" : "-27.639",
+            "longitude" : "153.109"
+        },
+        {
+            "name" : "Geelong",
+            "localtime":"2016-11-25 23:14:37",
+            "latitude" : "-38.147",
+            "longitude" : "144.361"
+        }
+    ]
+}
